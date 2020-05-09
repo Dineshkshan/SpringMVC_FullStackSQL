@@ -1,0 +1,44 @@
+@charset "ISO-8859-1";
+.main
+{
+  margin-top: 8%;
+  margin-left: 400px;
+  border: 2px solid red;
+  border-radius: 10px;
+  width: 50%;
+  height: 400px;
+}
+.form-control
+{
+    width: 30%;
+}
+.container
+{
+    margin-left: 200px;
+    margin-top: 60px;
+}
+.header
+{
+    text-align: center;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text-danger
+{
+    height: 0px;
+}
+.class1
+{
+    margin-top: 130px;
+    margin-left: 480px;
+}
+.class2
+{
+    position: relative;
+    bottom:35px;
+    left: 120px;
+}
+#btn
+{
+    margin-top: 10px;
+}
